@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 💻 CSE Student | Developer<br>🚀 Building Projects & Exploring New Technologies<br>☁️ Cloud Computing | Backend Development | AI<br>🎬 Developer by Logic, Creator by Passion.
 
 
